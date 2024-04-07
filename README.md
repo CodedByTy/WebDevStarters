@@ -11,4 +11,6 @@
 
 ### We will bring more extensions soon, please feel free to dm me on Discord to recommend more extensions. Discord: [tylerdotnet](https://discord.com/users/715628898963947610)
 
+## This extension pack is also open source. You can see the code [here](https://github.com/tylerdotnet/WebDevStarters)
+
 ## Thanks<3
