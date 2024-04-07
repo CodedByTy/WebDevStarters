@@ -1,0 +1,21 @@
+{
+  "name": "webdev-starters",
+  "displayName": "WebDev Starters",
+  "publisher": "TylerDotNet",
+  "description": "This extension is recommended for everyone that does web development.",
+  "icon": "images/icon.png",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.live-server",
+    "tabnine.tabnine-vscode",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comment"
+  ]
+}
